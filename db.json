@@ -1,0 +1,39 @@
+{
+  "habits": [
+    {
+      "name": "Drinking",
+      "date": "2023-04-17",
+      "id": 1
+    },
+    {
+      "name": "Travelling",
+      "date": "2023-04-13",
+      "id": 2
+    },
+    {
+      "name": "Eating",
+      "date": "2023-04-25",
+      "id": 3
+    },
+    {
+      "name": "Walking",
+      "date": "2023-04-02",
+      "id": 4
+    },
+    {
+      "name": "Sleeping",
+      "date": "2023-04-20",
+      "id": 5
+    },
+    {
+      "name": "Running",
+      "date": "2023-04-27",
+      "id": 6
+    },
+    {
+      "name": "Singing",
+      "date": "2023-04-03",
+      "id": 7
+    }
+  ]
+}
